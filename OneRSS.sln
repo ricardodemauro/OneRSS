@@ -5,6 +5,25 @@ VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneRSS.Client", "OneRSS.Client\OneRSS.Client.csproj", "{AF775B24-16F0-4697-897F-785865F45860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneRSS.ClientMVC", "OneRSS.ClientMVC\OneRSS.ClientMVC.csproj", "{56F7A561-F240-4BDB-B649-1539E0149BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneRSS.ClientMVC.Tests", "OneRSS.ClientMVC.Tests\OneRSS.ClientMVC.Tests.csproj", "{66D64A28-D1DB-459C-97D4-AB8810CF32CF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Itens", "Solution Itens", "{1A5595CC-A33D-403E-AC71-69D5FD778F5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{B5DB456E-B436-40D0-8BFB-706CF4A3B2E4}"
+	ProjectSection(SolutionItems) = preProject
+		Solution Itens\Script\Database.sql = Solution Itens\Script\Database.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneRSS.ClientConsoleApp", "OneRSS.ClientConsoleApp\OneRSS.ClientConsoleApp.csproj", "{172C40B8-D110-42F7-8A17-A0E9DDC29570}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{13F283D2-47BA-4F59-A14F-72D78652AA4C}"
+	ProjectSection(SolutionItems) = preProject
+		Solution Itens\Data\bibliografia.txt = Solution Itens\Data\bibliografia.txt
+		Solution Itens\Data\SampleRSS.xml = Solution Itens\Data\SampleRSS.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +34,24 @@ Global
 		{AF775B24-16F0-4697-897F-785865F45860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF775B24-16F0-4697-897F-785865F45860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF775B24-16F0-4697-897F-785865F45860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F7A561-F240-4BDB-B649-1539E0149BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F7A561-F240-4BDB-B649-1539E0149BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F7A561-F240-4BDB-B649-1539E0149BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F7A561-F240-4BDB-B649-1539E0149BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D64A28-D1DB-459C-97D4-AB8810CF32CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D64A28-D1DB-459C-97D4-AB8810CF32CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D64A28-D1DB-459C-97D4-AB8810CF32CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D64A28-D1DB-459C-97D4-AB8810CF32CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172C40B8-D110-42F7-8A17-A0E9DDC29570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172C40B8-D110-42F7-8A17-A0E9DDC29570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172C40B8-D110-42F7-8A17-A0E9DDC29570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172C40B8-D110-42F7-8A17-A0E9DDC29570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B5DB456E-B436-40D0-8BFB-706CF4A3B2E4} = {1A5595CC-A33D-403E-AC71-69D5FD778F5E}
+		{13F283D2-47BA-4F59-A14F-72D78652AA4C} = {1A5595CC-A33D-403E-AC71-69D5FD778F5E}
 	EndGlobalSection
 EndGlobal

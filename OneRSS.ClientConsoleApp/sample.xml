@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Macoratti .net RSS Feed</title>
+		<link>http://www.macoratti.net</link>
+		<description />
+		<copyright>(c) 2010, Macoratti .net. Todos os direitos reservados.</copyright>
+		<ttl>10</ttl>
+		<item>
+			<title>ONE ASP .NET  -  Web Forms + ASP .NET MVC + Web API</title>
+			<link>http://www.macoratti.net/14/03/net_oneasp.htm</link>
+			<pubDate>18/4/2014</pubDate>
+		</item>
+		<item>
+			<title>VBA -  Escrevendo valores por extenso no Excel (dica)</title>
+			<link>http://www.macoratti.net/14/04/vba_ext1.htm</link>
+			<pubDate>9/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# - Armazenando XML no SQL Server (revisão)</title>
+			<link>http://www.macoratti.net/14/04/c_xml2.htm</link>
+			<pubDate>10/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# - DataGridView - Salvando o conteúdo e realizando cálculos</title>
+			<link>http://www.macoratti.net/14/04/c_dgvd1.htm</link>
+			<pubDate>11/4/2014</pubDate>
+		</item>
+		<item>
+			<title>Entity Framework - Tratando o problema da concorrência de dados - I (início)</title>
+			<link>http://www.macoratti.net/Cursos/ef_conc.htm</link>
+			<pubDate>14/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# -  Compreendendo Virtual , Override e new - Conceitos</title>
+			<link>http://www.macoratti.net/14/04/c_conc1.htm</link>
+			<pubDate>15/4/2014</pubDate>
+		</item>
+		<item>
+			<title>VB .NET - Obtendo informações das interfaces de rede local (II)</title>
+			<link>http://www.macoratti.net/14/04/vb_netw1.htm</link>
+			<pubDate>16/4/2014</pubDate>
+		</item>
+		<item>
+			<title>VBA -  Gerando formulários automaticamente no Excel (ShowDataForm)</title>
+			<link>http://www.macoratti.net/14/04/vba_forma1.htm</link>
+			<pubDate>17/4/2014</pubDate>
+		</item>
+		<item>
+			<title>Entity Framework - O tratamento da concorrência - Curso</title>
+			<link>http://www.macoratti.net/Cursos/ef_conc.htm</link>
+			<pubDate>14/4/2014</pubDate>
+		</item>
+		<item>
+			<title>Entity Framework - Tratando o problema da concorrência na alteração dos dados - II</title>
+			<link>http://www.macoratti.net/Cursos/ef_conc.htm</link>
+			<pubDate>22/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# - Convertendo PDF para Texto com iTextSharp</title>
+			<link>http://www.macoratti.net/14/04/c_pdftxt1.htm</link>
+			<pubDate>23/4/2014</pubDate>
+		</item>
+		<item>
+			<title>ASP .NET MVC - CRUD Usando o padrão Repository (revisitado)</title>
+			<link>http://www.macoratti.net/14/04/mvc_crud.htm</link>
+			<pubDate>24/4/2014</pubDate>
+		</item>
+		<item>
+			<title>VBA -  Criando um formulário de Pesquisas (Excel)</title>
+			<link>http://www.macoratti.net/14/04/vba_xlsp1.htm</link>
+			<pubDate>25/4/2014</pubDate>
+		</item>
+		<item>
+			<title>VB .NET - DataBinding - DataTable e CurrencyManager (dica rápida)</title>
+			<link>http://www.macoratti.net/14/01/vbn_cm1.htm</link>
+			<pubDate>21/4/2014</pubDate>
+		</item>
+		<item>
+			<title>Entity Framework - Tratando o problema da concorrência de dados a nível de campos - III</title>
+			<link>http://www.macoratti.net/Cursos/ef_conc.htm</link>
+			<pubDate>28/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# -  Lendo e escrevendo em arquivos textos (StreamReader/StreamWriter)</title>
+			<link>http://www.macoratti.net/14/04/c_iotb1.htm</link>
+			<pubDate>29/4/2014</pubDate>
+		</item>
+		<item>
+			<title>ASP .NET - Salvando a posição geográfica atual no SQL Server com Entity Framework (C#)</title>
+			<link>http://www.macoratti.net/14/04/asp_efgeo1.htm</link>
+			<pubDate>30/4/2014</pubDate>
+		</item>
+		<item>
+			<title>C# -  Revisão de conceitos - Interfaces</title>
+			<link>http://www.macoratti.net/14/04/c_intf1.htm</link>
+			<pubDate>1/5/2014</pubDate>
+		</item>
+		<item>
+			<title>C# - Convertendo Números para valores em extenso (Dica)</title>
+			<link>http://www.macoratti.net/14/04/c_ext1.htm</link>
+			<pubDate>2/5/2014</pubDate>
+		</item>
+		<item>
+			<title>Entity Framework - Tratando o problema da concorrência de dados a nível de registro - IV</title>
+			<link>http://www.macoratti.net/Cursos/ef_conc.htm</link>
+			<pubDate>5/5/2014</pubDate>
+		</item>
+		<item>
+			<title>ASP .NET  - Criando um projeto em 3 Camadas - UI, BLL e DAL (revisão) - I</title>
+			<link>http://www.macoratti.net/14\05\aspn_3cam.htm</link>
+			<pubDate>6/5/2014</pubDate>
+		</item>
+		<item>
+			<title>C# -  Exibindo uma caixa de diálogo de progresso durante a copia de arquivos</title>
+			<link>http://www.macoratti.net/14/05/c_cdlg1.htm</link>
+			<pubDate>7/5/2014</pubDate>
+		</item>
+		<item>
+			<title>VB .NET - Selecionando registros entre um intervalo de datas no SQL Server</title>
+			<link>http://www.macoratti.net/14/05/sql_pd2d.htm</link>
+			<pubDate>8/5/2014</pubDate>
+		</item>
+		<item>
+			<title>
+				Visual Basic 6 -  Editor de Imagens - EPaint
+			</title>
+			<link>http://www.macoratti.net/14/05/vb6_paint.htm</link>
+			<pubDate>9/5/2014</pubDate>
+		</item>
+		<item>
+			<title> C# - Orçamento Doméstico e Pessoal (sistema Completo)</title>
+			<link>http://www.macoratti.net/14/05/c_odp1.htm</link>
+			<pubDate>5/5/2014</pubDate>
+		</item>
+	</channel>
+</rss>

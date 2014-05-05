@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>macoratti</title>
+		<link>http://www.macoratti.net</link>
+		<description>meu primeiro rss</description>
+		<language>por-br</language>
+		<copyright>Copyright (C) Nacoratti.net 2005</copyright>
+		<lastBuildDate>data de hoje</lastBuildDate>
+		<webMaster>macoratti@yahoo.com.br</webMaster>
+		<ttl>1</ttl>
+		<item>
+			<title>Criando o RSS com VB.NET</title>
+			<description>Este é meu programa para criar um RSS para compartilhar informações de um site.</description>
+			<pubDate>novembro , 10 Nov 2005</pubDate>
+		</item>
+	</channel>
+</rss>
